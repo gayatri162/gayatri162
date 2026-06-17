@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Gayatri 👋
 
-<!--
-**gayatri162/gayatri162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack MERN Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔴 Currently Learning:
+
+* HTML
+
+* CSS
+ 
+* JavaScript
+
+* React.js
+
+* Node.js
+
+* Express.js
+
+* MongoDB
+
+## 🚀 Projects:
+
+* Task Management System
+
+* E-Commerce Web App(in progress)
+
+## 🏅 Certifications:
+
+* IBM SkillsBuild
+
+* Microsoft Azure Fundamentals
+
+## 📬 Connect with me:
+
+* Linkedin: [gayatri-singh](https://www.linkedin.com/in/gayatri-singh/)
+
+* Email: [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com)
+
+
+ ##         💙 Thanks for visiting! Feel Free to connect and collaborate.
