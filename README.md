@@ -2,9 +2,9 @@
 
 🎓Engineering Student | 💻 Aspiring Full-Stack MERN Developer
 
-## 🔴 Tech Stack:
+# 🔴 Tech Stack:
 
-# Frontend
+## Frontend
 
 * HTML5
  
@@ -14,17 +14,17 @@
  
 * React.js
 
-# Backend
+## Backend
 
 * Node.js
  
 * Express.js
 
-# Database
+## Database
 
 * MongoDB
 
-# Tools & Platforms
+## Tools & Platforms
 
 * Git
  
@@ -32,7 +32,7 @@
  
 * VS Code
 
-## 🌱 Currently Learning:
+# 🌱 Currently Learning:
 
 * Advanced JavaScript
  
@@ -44,18 +44,18 @@
  
 * Full-Stack Application Development
 
-## 📁 Projects:
+# 📁 Projects:
 
-# Task Management System
+## Task Management System
 
 A web application for managing daily tasks with features such as CRUD.
 
-# E-Commerce Web App (In Progress)
+## E-Commerce Web App (In Progress)
 
 Developing a full-stack e-commerce platform using the MERN stack with product management, cart functionality, and user authentication.
 
 
-## 🏅 Certifications:
+# 🏅 Certifications:
 
 * (IBM SkillsBuild) Big Data and Business Management Internship
  
@@ -65,7 +65,7 @@ Developing a full-stack e-commerce platform using the MERN stack with product ma
  
 
 
-## 🎯 Goals:
+# 🎯 Goals:
 
 * Become a Full-Stack MERN Developer
  
@@ -74,7 +74,7 @@ Developing a full-stack e-commerce platform using the MERN stack with product ma
 * Build scalable web applications
 
  
-## 📬 Connect with me:
+# 📬 Connect with me:
 
 * Linkedin: [gayatri-singh](https://www.linkedin.com/in/gayatri-singh/)
 
