@@ -1,86 +1,80 @@
-## Hi, I'm Gayatri 👋
+# Hi, I'm Gayatri👋🏻
 
-🎓Engineering Student | 💻 Aspiring Full-Stack MERN Developer
+### Engineering Student | Full-Stack MERN Developer | UI/UX Designer | Aspiring AI Enthusiast
 
-# 🔴 Tech Stack:
+> *"Building beautiful, user-friendly experiences while learning new technologies every day."*
 
-## Frontend
+---
 
-* HTML5
- 
-* CSS3
- 
-* JavaScript
- 
-* React.js
+## 🚀 About Me
 
-## Backend
+- 🎓 B.Tech Engineering Student
+- 💻 Passionate about Web Development & UI/UX Design
+- 🌱 Currently learning Python & AI
+- 🎨 Love creating modern and responsive websites
+- 🤝 Open to internships and collaborations
 
-* Node.js
- 
-* Express.js
+---
 
-## Database
+## 🛠 Tech Stack
 
-* MongoDB
+| Category | Technologies |
+|----------|--------------|
+| Languages | C, C++, JavaScript, SQL |
+| Frontend | HTML5, CSS3, JavaScript, React.js, Bootstrap |
+| Backend | Node.js, Express.js, Python, REST APIs |
+| Design | Figma, Canva |
+| Tools | Git, GitHub, VS Code, Postman, Netlify, Vercel, Render |
 
-## Tools & Platforms
+---
 
-* Git
- 
-* GitHub
- 
-* VS Code
+## 🏆 Featured Project
 
-# 🌱 Currently Learning:
+### 💼 Portfolio Website
 
-* Advanced JavaScript
- 
-* React.js
- 
-* REST APIs
- 
-* MongoDB Database Design
- 
-* Full-Stack Application Development
+A responsive personal portfolio showcasing my projects, skills and achievements.
 
-# 📁 Projects:
+**Features**
+- Responsive Design
+- Dark Theme
+- Smooth Animations
+- Project Showcase
+- Contact Section
 
-## Task Management System
+🔗 **Live Demo:** [https://gayatri162.github.io/Portfolio-Website/](https://gayatri162.github.io/Portfolio-Website/)
 
-A web application for managing daily tasks with features such as CRUD.
+🔗 **Repository:** [https://github.com/gayatri162/Portfolio-Website](https://github.com/gayatri162/Portfolio-Website)
 
-## E-Commerce Web App (In Progress)
+---
 
-Developing a full-stack e-commerce platform using the MERN stack with product management, cart functionality, and user authentication.
+## 🎓 Education
 
+**B.Tech Engineering**
 
-# 🏅 Certifications:
+Raj Kumar Goel Institute of Technology & Management 
 
-* (IBM SkillsBuild) Big Data and Business Management Internship
- 
-* (Microsoft) Cloud Computing
- 
-* (Udemy) The Complete Full Stack Web Development 
- 
+2025 – 2029
 
+---
 
-# 🎯 Goals:
+## 📜 Certifications
 
-* Become a Full-Stack MERN Developer
- 
-* Contribute to Open Source Projects
- 
-* Build scalable web applications
+- ✅ Full-Stack Web Development 
+- ✅ UI/UX Design
+- ✅ AI Fundamentals
+- ✅ Git & GitHub
 
- 
-# 📬 Connect with me:
+---
 
-* Linkedin: [gayatri-singh](https://www.linkedin.com/in/gayatri-singh/)
+## 🌐 Connect With Me
 
-* Email: [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com)
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [https://www.linkedin.com/in/gayatri-singh/](https://www.linkedin.com/in/gayatri-singh/) |
+| 🌐 Portfolio | [https://gayatri162.github.io/Portfolio-Website/](https://gayatri162.github.io/Portfolio-Website/) |
+| 📧 Email | [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com) |
+| 💻 GitHub | [https://github.com/gayatri162](https://github.com/gayatri162) |
 
+---
 
- ##         💙 Thanks for visiting! 
- 
- ⭐️ Feel Free to explore my repositories and connect & collaborate with me. I'm always open to learning, collaboration and new opportunities.
+⭐ Thanks for visiting my profile!
