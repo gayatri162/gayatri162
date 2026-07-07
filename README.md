@@ -1,15 +1,15 @@
-# Hi, I'm Gayatri👋🏻
+# 👋 Hi, I'm Gayatri
 
-### Engineering Student | Full-Stack MERN Developer | UI/UX Designer | Aspiring AI Enthusiast
+### Engineering Student • Full-Stack MERN Developer • UI/UX Designer • Aspiring AI Enthusiast
 
-> *"Building beautiful, user-friendly experiences while learning new technologies every day."*
+> *"Technology changes every day. The ability to learn is the only skill that never becomes obsolete."*
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech Engineering Student
-- 💻 Passionate about Web Development & UI/UX Design
+- 💡 Passionate about building responsive web experiences and intuitive user interfaces.
 - 🌱 Currently learning Python & AI
 - 🎨 Love creating modern and responsive websites
 - 🤝 Open to internships and collaborations
@@ -30,7 +30,7 @@
 
 ## 🏆 Featured Project
 
-### 💼 Portfolio Website
+### 🌐 Personal Portfolio Website
 
 A responsive personal portfolio showcasing my projects, skills and achievements.
 
@@ -49,7 +49,8 @@ A responsive personal portfolio showcasing my projects, skills and achievements.
 
 ## 🎓 Education
 
-**B.Tech Engineering**
+**Bachelor of Technology (B.Tech)**
+**Computer Science Engineering**
 
 Raj Kumar Goel Institute of Technology & Management 
 
@@ -66,7 +67,17 @@ Raj Kumar Goel Institute of Technology & Management
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayatri162&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatri162&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Connect With Me
+
+📍India
 
 | Platform | Link |
 |----------|------|
