@@ -41,7 +41,7 @@ A responsive personal portfolio showcasing my projects, skills and achievements.
 - Project Showcase
 - Contact Section
 
-🔗 **Live Demo:** [https://gayatri162.github.io/Portfolio-Website/](https://gayatri162.github.io/Portfolio-Website/)
+🔗 **Live Demo:** [https://portfolio-website-pied-two-55.vercel.app/](https://portfolio-website-pied-two-55.vercel.app/)
 
 🔗 **Repository:** [https://github.com/gayatri162/Portfolio-Website](https://github.com/gayatri162/Portfolio-Website)
 
@@ -73,10 +73,10 @@ Raj Kumar Goel Institute of Technology & Management
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [https://www.linkedin.com/in/gayatri-singh/](https://www.linkedin.com/in/gayatri-singh/) |
-| 🌐 Portfolio | [https://gayatri162.github.io/Portfolio-Website/](https://gayatri162.github.io/Portfolio-Website/) |
+| 💼 LinkedIn | [linkedin.com/gayatri-singh/](https://www.linkedin.com/in/gayatri-singh/) |
+| 🌐 Portfolio | [Portfolio-Website/](https://portfolio-website-pied-two-55.vercel.app/) |
 | 📧 Email | [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com) |
-| 💻 GitHub | [https://github.com/gayatri162](https://github.com/gayatri162) |
+| 💻 GitHub | [github.com/gayatri162](https://github.com/gayatri162) |
 
 ---
 
