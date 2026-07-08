@@ -73,8 +73,8 @@ Raj Kumar Goel Institute of Technology & Management
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/gayatri-singh/](https://www.linkedin.com/in/gayatri-singh/) |
-| 🌐 Portfolio | [Portfolio-Website/](https://portfolio-website-pied-two-55.vercel.app/) |
+| 💼 LinkedIn | [linkedin.com/gayatri-singh](https://www.linkedin.com/in/gayatri-singh/) |
+| 🌐 Portfolio | [Portfolio-Website](https://portfolio-website-pied-two-55.vercel.app/) |
 | 📧 Email | [gayatrisingh44567@gmail.com](mailto:gayatrisingh44567@gmail.com) |
 | 💻 GitHub | [github.com/gayatri162](https://github.com/gayatri162) |
 
